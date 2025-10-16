@@ -1,0 +1,27 @@
+{
+  "name": "discord-and-dungeons",
+  "version": "1.0.0",
+  "description": "Discord Bot that reads messages and embeds from Avrae and updates a stream overlay via Streamer.bot written in NodeJs.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FiftyNut/Discord-and-Dungeons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FiftyNut/Discord-and-Dungeons/issues"
+  },
+  "homepage": "https://github.com/FiftyNut/Discord-and-Dungeons#readme",
+  "dependencies": {
+    "discord.js": "^14.23.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
